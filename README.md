@@ -1,2 +1,2 @@
 # data-analysis
-a collection of machine learnind
+a collection of machine learning
